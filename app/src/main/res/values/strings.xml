@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvaluacionNacional</string>
+    <string name="enviar">enviar</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+</resources>
